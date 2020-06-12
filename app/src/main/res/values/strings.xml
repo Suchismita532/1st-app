@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyConverterApp</string>
+    <string name="enter_amount_in_rupees">Enter amount in rupees</string>
+    <string name="convert">Convert</string>
+</resources>
